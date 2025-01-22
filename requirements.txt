@@ -1,7 +1,8 @@
+python-3.10
 transformers
 datasets
 evaluate
-opencv-python-headless
+opencv-python-headless==4.8.1.78
 ray[serve]
 accelerate
 tensorboardX
